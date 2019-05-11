@@ -28,3 +28,5 @@ public class DatePick extends DialogFragment implements
     }
 
 }
+//okボタンいらない。
+//時間に遷移
