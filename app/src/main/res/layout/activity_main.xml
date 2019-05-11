@@ -41,4 +41,17 @@
         android:layout_margin="30dp"
         android:text="@string/pick_time" />
 
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Free Time" />
+
+    <TextView
+        android:id="@+id/free_time"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="free_time"
+        android:textAlignment="center"
+        android:textSize="30sp" />
+
 </LinearLayout >

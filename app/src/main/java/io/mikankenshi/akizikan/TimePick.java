@@ -23,7 +23,7 @@ public class TimePick extends DialogFragment implements
 
     @Override
     public void onTimeSet(TimePicker view, int hourOfDay, int minute) {
-
     }
+
 }
-//hourを選択した後、minuteからhourに戻れるようにしたい。overrideすればおｋ
+//hourを選択した後、minuteからhourに戻れるようにしたい。overrideすれば
